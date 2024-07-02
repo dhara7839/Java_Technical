@@ -1,10 +1,6 @@
 //Program to demonstrate Hashtable
 
-package com.tnsif.dayeighteen.map;
-
-import java.util.Enumeration;
-
-import java.util.Hashtable;
+package map;
 
 public class HashTableDemo {
 	public static void main(String args[]) {
